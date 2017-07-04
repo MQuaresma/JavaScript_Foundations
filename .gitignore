@@ -1,0 +1,8 @@
+TheGymnasiumCertificate.pdf
+
+# macOS
+._*
+.DS_Store
+
+# Others
+.vscode/*
